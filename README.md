@@ -1,9 +1,6 @@
 <html lang="en">
     <header>
         <meta charset="utf-8">
-        <title>
-            PEMROGRAMAN WEB
-        </title>
     </header>
     <body background="twice.jpg" link="black" alink="blue" vlink="red">
         <h3 align="center">
